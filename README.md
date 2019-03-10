@@ -15,4 +15,4 @@ The source code is header-only and includes several headers from
     * Boost library (for example libboost1.67)
 
 ### License
-GPLv3, see LICENSE for more information
+GPLv3, see [LICENSE](https://github.com/ae137/SYKQuench/blob/master/LICENSE) for more information
